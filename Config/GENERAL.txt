@@ -343,4 +343,5 @@ CONFIG_WARP_VERSION=2
 
 CONFIG_WED_HW_RRO_SUPPORT=y
 #Add luci packages
-CONFIG_PACKAGE_luci-theme-kucat=y
+#CONFIG_PACKAGE_luci-theme-kucat=y
+
